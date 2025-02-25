@@ -1,0 +1,6 @@
+Terdapat beberapa tools yg digunakan programming
+- vs code
+- figma
+- sublime text
+- postman
+- docker
